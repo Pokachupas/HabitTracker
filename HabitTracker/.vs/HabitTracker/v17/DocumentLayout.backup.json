@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chiva\\Desktop\\HT\\HabitTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C343D328-C8EE-454B-B51F-374CFEC93085}|HabitTracker.vcxproj|C:\\Users\\chiva\\Desktop\\HT\\HabitTracker\\habits_db.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C343D328-C8EE-454B-B51F-374CFEC93085}|HabitTracker.vcxproj|solutionrelative:habits_db.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C343D328-C8EE-454B-B51F-374CFEC93085}|HabitTracker.vcxproj|C:\\Users\\chiva\\Desktop\\HT\\HabitTracker\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C343D328-C8EE-454B-B51F-374CFEC93085}|HabitTracker.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C343D328-C8EE-454B-B51F-374CFEC93085}|HabitTracker.vcxproj|C:\\Users\\chiva\\Desktop\\HT\\HabitTracker\\Habit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C343D328-C8EE-454B-B51F-374CFEC93085}|HabitTracker.vcxproj|solutionrelative:Habit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C343D328-C8EE-454B-B51F-374CFEC93085}|HabitTracker.vcxproj|C:\\Users\\chiva\\Desktop\\HT\\HabitTracker\\Agenda.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C343D328-C8EE-454B-B51F-374CFEC93085}|HabitTracker.vcxproj|solutionrelative:Agenda.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C343D328-C8EE-454B-B51F-374CFEC93085}|HabitTracker.vcxproj|C:\\Users\\chiva\\Desktop\\HT\\HabitTracker\\Day.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C343D328-C8EE-454B-B51F-374CFEC93085}|HabitTracker.vcxproj|solutionrelative:Day.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "habits_db.cpp",
+              "DocumentMoniker": "C:\\Users\\chiva\\Desktop\\HT\\HabitTracker\\habits_db.cpp",
+              "RelativeDocumentMoniker": "habits_db.cpp",
+              "ToolTip": "C:\\Users\\chiva\\Desktop\\HT\\HabitTracker\\habits_db.cpp",
+              "RelativeToolTip": "habits_db.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-31T23:01:53.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Day.cpp",
+              "DocumentMoniker": "C:\\Users\\chiva\\Desktop\\HT\\HabitTracker\\Day.cpp",
+              "RelativeDocumentMoniker": "Day.cpp",
+              "ToolTip": "C:\\Users\\chiva\\Desktop\\HT\\HabitTracker\\Day.cpp",
+              "RelativeToolTip": "Day.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-30T22:31:26.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Agenda.cpp",
+              "DocumentMoniker": "C:\\Users\\chiva\\Desktop\\HT\\HabitTracker\\Agenda.cpp",
+              "RelativeDocumentMoniker": "Agenda.cpp",
+              "ToolTip": "C:\\Users\\chiva\\Desktop\\HT\\HabitTracker\\Agenda.cpp",
+              "RelativeToolTip": "Agenda.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-25T06:17:58.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\chiva\\Desktop\\HT\\HabitTracker\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "C:\\Users\\chiva\\Desktop\\HT\\HabitTracker\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T01:48:05.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Habit.cpp",
+              "DocumentMoniker": "C:\\Users\\chiva\\Desktop\\HT\\HabitTracker\\Habit.cpp",
+              "RelativeDocumentMoniker": "Habit.cpp",
+              "ToolTip": "C:\\Users\\chiva\\Desktop\\HT\\HabitTracker\\Habit.cpp",
+              "RelativeToolTip": "Habit.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T01:47:59.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
